@@ -1,6 +1,6 @@
 # About This Repository
 
-This repository contains the TEI master filse, and derived text and HTML files of four ebooks posted to [Project Gutenberg](https://www.gutenberg.org/). Like the versions posted to Project Gutenberg, these ebooks are free from copyright in the U.S. No claim is made about its copyright status outside the U.S.
+This repository contains the TEI master files, and derived text and HTML files of four ebooks posted to [Project Gutenberg](https://www.gutenberg.org/). Like the versions posted to Project Gutenberg, these ebooks are free from copyright in the U.S. No claim is made about its copyright status outside the U.S.
 
 The versions maintained in this repository may be slightly out-of-sync with the version maintained at Project Gutenberg. Mostly, fixes will be made first here, and only then reposted to Project Gutenberg. When you encounter any issue in these texts, please report it here.
 
