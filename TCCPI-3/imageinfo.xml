@@ -1,0 +1,96 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="227" filedate="2018-04-02 06:24:46" width="16px" height="16px">
+</image>
+<image path="images/brace2.gif" filesize="133" filedate="2018-04-02 06:24:46" width="11px" height="38px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="151" filedate="2018-04-02 06:24:46" width="12px" height="12px">
+</image>
+<image path="images/fig124.png" filesize="1242" filedate="2018-04-02 06:24:46" width="146px" height="82px">
+</image>
+<image path="images/fig125-1.png" filesize="438" filedate="2018-04-02 06:24:46" width="40px" height="62px">
+</image>
+<image path="images/fig125-2.png" filesize="662" filedate="2018-04-02 06:24:46" width="110px" height="61px">
+</image>
+<image path="images/fig126.png" filesize="1470" filedate="2018-04-02 06:24:47" width="192px" height="78px">
+</image>
+<image path="images/fig257.png" filesize="11011" filedate="2018-04-02 06:24:48" width="374px" height="361px">
+</image>
+<image path="images/fig264.png" filesize="5730" filedate="2018-04-02 06:24:48" width="310px" height="370px">
+</image>
+<image path="images/fig269.png" filesize="33394" filedate="2018-04-02 06:24:50" width="567px" height="570px">
+</image>
+<image path="images/lbrace2.gif" filesize="134" filedate="2018-04-02 06:24:51" width="11px" height="38px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="10985" filedate="2018-04-02 06:24:51" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="62392" filedate="2018-04-02 06:24:51" width="480px" height="720px">
+</image>
+<image path="images/plate01.jpg" filesize="60401" filedate="2018-04-02 06:24:51" width="720px" height="405px">
+</image>
+<image path="images/plate02.jpg" filesize="58029" filedate="2018-04-02 06:24:51" width="720px" height="404px">
+</image>
+<image path="images/plate03.jpg" filesize="109358" filedate="2018-04-02 06:24:51" width="720px" height="504px">
+</image>
+<image path="images/plate04.jpg" filesize="91492" filedate="2018-04-02 06:24:52" width="556px" height="711px">
+</image>
+<image path="images/plate05.jpg" filesize="62778" filedate="2018-04-02 06:24:52" width="405px" height="720px">
+</image>
+<image path="images/plate06.jpg" filesize="97629" filedate="2018-04-02 06:24:52" width="515px" height="720px">
+</image>
+<image path="images/plate07.jpg" filesize="64891" filedate="2018-04-02 06:24:52" width="720px" height="406px">
+</image>
+<image path="images/plate08.jpg" filesize="77630" filedate="2018-04-02 06:24:52" width="478px" height="720px">
+</image>
+<image path="images/plate09.jpg" filesize="82634" filedate="2018-04-02 06:24:52" width="720px" height="450px">
+</image>
+<image path="images/plate10.jpg" filesize="79302" filedate="2018-04-02 06:24:52" width="720px" height="494px">
+</image>
+<image path="images/plate11.jpg" filesize="53086" filedate="2018-04-02 06:24:53" width="407px" height="720px">
+</image>
+<image path="images/plate12.jpg" filesize="90203" filedate="2018-04-02 06:24:53" width="720px" height="467px">
+</image>
+<image path="images/plate13.jpg" filesize="93394" filedate="2018-04-02 06:24:53" width="720px" height="511px">
+</image>
+<image path="images/plate14.jpg" filesize="85071" filedate="2018-04-02 06:24:53" width="450px" height="720px">
+</image>
+<image path="images/plate15.jpg" filesize="73909" filedate="2018-04-02 06:24:53" width="720px" height="401px">
+</image>
+<image path="images/plate16.jpg" filesize="87201" filedate="2018-04-02 06:24:53" width="720px" height="503px">
+</image>
+<image path="images/plate17.jpg" filesize="82519" filedate="2018-04-02 06:24:54" width="720px" height="464px">
+</image>
+<image path="images/plate18.jpg" filesize="76012" filedate="2018-04-02 06:24:54" width="720px" height="403px">
+</image>
+<image path="images/plate19.jpg" filesize="67389" filedate="2018-04-02 06:24:54" width="720px" height="460px">
+</image>
+<image path="images/plate20.jpg" filesize="80861" filedate="2018-04-02 06:24:54" width="720px" height="431px">
+</image>
+<image path="images/plate21.jpg" filesize="80747" filedate="2018-04-02 06:24:54" width="720px" height="497px">
+</image>
+<image path="images/plate22.jpg" filesize="79109" filedate="2018-04-02 06:24:54" width="720px" height="404px">
+</image>
+<image path="images/plate23.jpg" filesize="66872" filedate="2018-04-02 06:24:54" width="720px" height="406px">
+</image>
+<image path="images/plate24.jpg" filesize="92676" filedate="2018-04-02 06:24:55" width="720px" height="503px">
+</image>
+<image path="images/plate25.jpg" filesize="89190" filedate="2018-04-02 06:24:55" width="720px" height="518px">
+</image>
+<image path="images/plate26.jpg" filesize="84567" filedate="2018-04-02 06:24:55" width="464px" height="720px">
+</image>
+<image path="images/plate27.jpg" filesize="63990" filedate="2018-04-02 06:24:55" width="720px" height="403px">
+</image>
+<image path="images/plate28.jpg" filesize="82417" filedate="2018-04-02 06:24:55" width="720px" height="432px">
+</image>
+<image path="images/plate29.jpg" filesize="82520" filedate="2018-04-02 06:24:55" width="526px" height="720px">
+</image>
+<image path="images/plate30.jpg" filesize="81685" filedate="2018-04-02 06:24:56" width="504px" height="720px">
+</image>
+<image path="images/plate31.jpg" filesize="108194" filedate="2018-04-02 06:24:56" width="720px" height="529px">
+</image>
+<image path="images/plate32.jpg" filesize="81620" filedate="2018-04-02 06:24:56" width="518px" height="720px">
+</image>
+<image path="images/titlepage.png" filesize="11603" filedate="2018-04-02 06:24:57" width="422px" height="720px">
+</image>
+</images>

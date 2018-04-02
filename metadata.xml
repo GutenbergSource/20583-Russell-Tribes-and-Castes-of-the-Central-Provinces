@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The Tribes and Castes of the Central Provinces of India</dc:title>
+      <dc:creator>Robert Vane Russell (1873–1915)</dc:creator>
+      <dc:creator>Rai Bahadur Hīra Lāl (1867–1934)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., #####</dc:publisher>
+      <dc:date>#####</dc:date>
+      <dc:subject>Caste -- India -- Madhya Pradesh</dc:subject>
+      <dc:subject>Ethnology -- India -- Madhya Pradesh</dc:subject>
+      <dc:subject>Madhya Pradesh (India) -- Religion</dc:subject>
+      <dc:subject>Madhya Pradesh (India) -- Scheduled tribes</dc:subject>
+   </rdf:Description>
+</rdf:RDF>
